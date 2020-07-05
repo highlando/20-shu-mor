@@ -17,27 +17,29 @@
 # Time Schedule
 
 | Date | Times | Content |
-| ---- | ----- | ------- |
-| 7 July, Tuesday    |  13:05-13:50 | Lecture 1.1 |
-|                    |  14:10-14:55 | Lecture 1.2 |
-| 8 July, Wednesday  |  08:00-08:45 | Lecture 2.1 |
-|                    |  08:55-09:40 | Lecture 2.2 |
-|                    |  10:00-10:45 | Lecture 3.1 |
-| 9 July, Thursday   |  08:00-08:45 | Lecture 3.2 |
-|                    |  08:55-09:40 | Lecture 4.1 |
-|                    |  10:00-10:45 | Lecture 4.2 |
-| 10 July, Friday    |  10:00-10:45 | Lecture 5.1 |
-|                    |  10:55-11:40 | Lecture 5.2 |
-| 14 July, Tuesday   |  13:05-13:50 | Lecture 6.1 |
-|                    |  14:10-14:55 | Lecture 6.2 |
-| 15 July, Wednesday |  08:00-08:45 | Lecture 7.1 |
-|                    |  08:55-09:40 | Lecture 7.2 |
-|                    |  10:00-10:45 | Lecture 8.1 |
-| 16 July, Thursday  |  08:00-08:45 | Lecture 8.2 |
-|                    |  08:55-09:40 | Lecture 9.1 |
-|                    |  10:00-10:45 | Lecture 9.2 |
-| 17 July, Friday    |  10:00-10:45 | Lecture 10.1 |
-|                    |  10:55-11:40 | Lecture 10.2 |
+| ---- | :----: | ------- |
+| 7 July, Tuesday    |  13:05-13:50 | Lesson 1.1 |
+|                    |  14:10-14:55 | Lesson 1.2 |
+| 8 July, Wednesday  |  08:00-08:45 | Lesson 2.1 |
+|                    |  08:55-09:40 | Lesson 2.2 |
+|                    |  10:00-10:45 | Lesson 3.1 |
+| 9 July, Thursday   |  08:00-08:45 | Lesson 3.2 |
+|                    |  08:55-09:40 | Lesson 4.1 |
+|                    |  10:00-10:45 | Lesson 4.2 |
+| 10 July, Friday    |  10:00-10:45 | Lesson 5.1 |
+|                    |  10:55-11:40 | Lesson 5.2 |
+| 14 July, Tuesday   |  13:05-13:50 | Lesson 6.1 |
+|                    |  14:10-14:55 | Lesson 6.2 |
+| 15 July, Wednesday |  08:00-08:45 | Lesson 7.1 |
+|                    |  08:55-09:40 | Lesson 7.2 |
+|                    |  10:00-10:45 | Lesson 8.1 |
+| 16 July, Thursday  |  08:00-08:45 | Lesson 8.2 |
+|                    |  08:55-09:40 | Lesson 9.1 |
+|                    |  10:00-10:45 | Lesson 9.2 |
+| 17 July, Friday    |  10:00-10:45 | Lesson 10.1 |
+|                    |  10:55-11:40 | Lesson 10.2 |
+
+All times are Beijing time.
 
 # The Lecture
 ## Lesson 1
