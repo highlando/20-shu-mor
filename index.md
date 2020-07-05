@@ -42,24 +42,35 @@
 All times are Beijing time.
 
 # The Lecture
-## Lesson 1
+## 1 Introduction to LTI Systems
 
-I will start my short course by introducing the class of Linear Time Invariant
+*I will start my short course by introducing the class of Linear Time Invariant
 (LTI) systems and the control related system theory for them. Although LTI
 systems can be used to model many real life processes, the mathematical theory
-for control is very general.
+for control is very general.*
+
+ * Introduction
+ * The state-space and tranfer functions
+ * Controllability/Observability
+ * Realizations
+ 
 
 ## Lesson 2
 
-The second lecture will be on the fundamental motivations and mathematical
+*The second lecture will be on the fundamental motivations and mathematical
 notions of model reduction in general and for LTI in particular. This lecture
 will provide some illustrative examples for the use and results of model
-reduction
+reduction.*
 
 ## Lesson 3
 
-In the 3rd lecture, we will introduce the necessary mathematical foundations
-from system theory and linear algebra.
+*In the 3rd lecture, we will introduce the necessary mathematical foundations
+from system theory and linear algebra.*
+
+ * Stability
+ * Laplace transform
+ * Proper systems
+ * System norms
 
 ## Lesson 4
 
