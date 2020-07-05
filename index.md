@@ -14,8 +14,33 @@
 | Stable |稳定|
 | Truncation |截断|
 
+# Time Schedule
+
+| Date | Times | Content |
+| ---- | ----- | ------- |
+| 7 July, Tuesday    |  13:05-13:50 | Lecture 1.1 |
+|                    |  14:10-14:55 | Lecture 1.2 |
+| 8 July, Wednesday  |  08:00-08:45 | Lecture 2.1 |
+|                    |  08:55-09:40 | Lecture 2.2 |
+|                    |  10:00-10:45 | Lecture 3.1 |
+| 9 July, Thursday   |  08:00-08:45 | Lecture 3.2 |
+|                    |  08:55-09:40 | Lecture 4.1 |
+|                    |  10:00-10:45 | Lecture 4.2 |
+| 10 July, Friday    |  10:00-10:45 | Lecture 5.1 |
+|                    |  10:55-11:40 | Lecture 5.2 |
+| 14 July, Tuesday   |  13:05-13:50 | Lecture 6.1 |
+|                    |  14:10-14:55 | Lecture 6.2 |
+| 15 July, Wednesday |  08:00-08:45 | Lecture 7.1 |
+|                    |  08:55-09:40 | Lecture 7.2 |
+|                    |  10:00-10:45 | Lecture 8.1 |
+| 16 July, Thursday  |  08:00-08:45 | Lecture 8.2 |
+|                    |  08:55-09:40 | Lecture 9.1 |
+|                    |  10:00-10:45 | Lecture 9.2 |
+| 17 July, Friday    |  10:00-10:45 | Lecture 10.1 |
+|                    |  10:55-11:40 | Lecture 10.2 |
+
 # The Lecture
-# # Lesson 1
+## Lesson 1
 
 I will start my short course by introducing the class of Linear Time Invariant
 (LTI) systems and the control related system theory for them. Although LTI
