@@ -50,19 +50,19 @@ systems can be used to model many real life processes, the mathematical theory
 for control is very general.*
 
  * Introduction
- * The state-space and tranfer functions
+ * The state-space representationj and transfer functions
  * Controllability/Observability
  * Realizations
  
 
-## Lesson 2
+## 2 Introduction to Model Reduction
 
 *The second lecture will be on the fundamental motivations and mathematical
 notions of model reduction in general and for LTI in particular. This lecture
 will provide some illustrative examples for the use and results of model
 reduction.*
 
-## Lesson 3
+## 3 Mathematical Basics for System Theory
 
 *In the 3rd lecture, we will introduce the necessary mathematical foundations
 from system theory and linear algebra.*
@@ -72,15 +72,19 @@ from system theory and linear algebra.*
  * Proper systems
  * System norms
 
-## Lesson 4
+## 4 Projection Based Model Reduction
 
-In the 4th lecture, I will introduce the fundamental model reduction approach
-that uses projections and explain several ways to compute these projections. 
+*In the 4th lecture, I will introduce the fundamental model reduction approach
+that uses projections and explain several ways to compute these projections.*
 
-## Lesson 5
+## 5 Balanced Truncation
 
-A mathematical well understood projection method is Balanced Truncation (BT),
-which will be introduced in the 5th lecture.
+*A mathematical well understood projection method is Balanced Truncation (BT),
+which will be introduced in the 5th lecture.*
+
+ * Gramians
+ * Balanced Realizations
+ * Balanced Truncation
 
 ## Lesson 6
 
