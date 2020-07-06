@@ -77,6 +77,10 @@ from system theory and linear algebra.*
 *In the 4th lecture, I will introduce the fundamental model reduction approach
 that uses projections and explain several ways to compute these projections.*
 
+ * Projections and projectors
+ * Projection and Interpolation
+ * Modal Truncation
+
 ## 5 Balanced Truncation
 
 *A mathematical well understood projection method is Balanced Truncation (BT),
