@@ -18,30 +18,31 @@
 
 | Date | Times | Content |
 | ---- | :----: | ------- |
-| 7 July, Tuesday    |  13:05-13:50 | Lesson 1.1 |
-|                    |  14:10-14:55 | Lesson 1.2 |
-| 8 July, Wednesday  |  08:00-08:45 | Lesson 2.1 |
-|                    |  08:55-09:40 | Lesson 2.2 |
-|                    |  10:00-10:45 | Lesson 3.1 |
-| 9 July, Thursday   |  08:00-08:45 | Lesson 3.2 |
-|                    |  08:55-09:40 | Lesson 4.1 |
-|                    |  10:00-10:45 | Lesson 4.2 |
-| 10 July, Friday    |  10:00-10:45 | Lesson 5.1 |
-|                    |  10:55-11:40 | Lesson 5.2 |
-| 14 July, Tuesday   |  13:05-13:50 | Lesson 6.1 |
-|                    |  14:10-14:55 | Lesson 6.2 |
-| 15 July, Wednesday |  08:00-08:45 | Lesson 7.1 |
-|                    |  08:55-09:40 | Lesson 7.2 |
-|                    |  10:00-10:45 | Lesson 8.1 |
-| 16 July, Thursday  |  08:00-08:45 | Lesson 8.2 |
-|                    |  08:55-09:40 | Lesson 9.1 |
-|                    |  10:00-10:45 | Lesson 9.2 |
-| 17 July, Friday    |  10:00-10:45 | Lesson 10.1 |
-|                    |  10:55-11:40 | Lesson 10.2 |
+| 14 July, Tuesday    |  13:05-13:50 | 1.1  Introduction to LTI Systems (live) |
+|                    |  14:10-14:55 | 1.2 Introduction to LTI Systems (live) |
+| 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I |
+|                    |  08:55-09:40 | 2.2 Exercise 1 |
+|                    |  10:00-10:45 | 2.3 Solutions to the Exercises |
+| 16 July, Thursday   |  08:00-08:45 | 3.1 Mathematical Basics of LTI Systems II |
+|                    |  08:55-09:40 | 3.2 Exercise 2 |
+|                    |  10:00-10:45 | 3.3 Solutions to the Exercise |
+| 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 |
+|                    |  10:55-11:40 | 4.2 Introduction to MOR 2 (live) |
+| 21 July, Tuesday   |  13:05-13:50 | 5.1 Mathematical Basics of Balanced Truncation |
+|                    |  14:10-14:55 | 5.2 Exercise 3 |
+| 22 July, Wednesday |  08:00-08:45 | 6.1 Balanced Truncation 1 |
+|                    |  08:55-09:40 | 6.2 Balanced Truncation 2 |
+|                    |  10:00-10:45 | 6.1 Solutions to Exercise 3 |
+| 23 July, Thursday  |  08:00-08:45 | 7.2 LQG-Balanced Truncation |
+|                    |  08:55-09:40 | 7.1 Descriptor Systems |
+|                    |  10:00-10:45 | 7.2 LQGBT for incompressible Flows |
+| 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation (live) |
+|                    |  10:55-11:40 | 8.2 Summary of the Lecture (live) |
 
 All times are Beijing time.
 
 # The Lecture
+
 ## 1 Introduction to LTI Systems
 
 *I will start my short course by introducing the class of Linear Time Invariant
@@ -49,11 +50,19 @@ All times are Beijing time.
 systems can be used to model many real life processes, the mathematical theory
 for control is very general.*
 
- * Introduction
- * The state-space representationj and transfer functions
+### Introductory Lecture
+
+ * An illustrative example
+ * The state-space representation and transfer functions
  * Controllability/Observability
  * Realizations
- 
+
+### Exercise I
+
+ * Hautusz' criteria
+ * Equivalence transformations
+
+### Solutions of Exercise I
 
 ## 2 Introduction to Model Reduction
 
