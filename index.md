@@ -64,7 +64,8 @@ sheet.
 
 ### Exercise I
 
-Please download and solve the [1st exercise sheet](_exercises/exi.pdf).
+Please download and solve the [1st exercise sheet](_exercises/exi.pdf) (hope it;s
+there).
 
  * Hautusz' criteria
  * Equivalence transformations
