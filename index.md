@@ -20,16 +20,16 @@
 | ---- | :----: | ------- |
 | 14 July, Tuesday    |  13:05-13:50 | 1.1  Introduction to LTI Systems (live) |
 |                    |  14:10-14:55 | 1.2 Introduction to LTI Systems (live) |
-| 15 July, Wednesday  |  08:00-08:45 | 2.1 :movie_camera: Mathematical Basics of LTI Systems I |
-|                    |  08:55-09:40 | 2.2 :clipboard: Exercise 1 |
-|                    |  10:00-10:45 | 2.3 :movie_camera: Solutions to the Exercises |
-| 16 July, Thursday   |  08:00-08:45 | 3.1 :movie_camera: Mathematical Basics of LTI Systems II |
-|                    |  08:55-09:40 | 3.2 :clipboard: Exercise 2 |
-|                    |  10:00-10:45 | 3.3 :movie_camera: Solutions to the Exercise |
+| 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I :movie_camera: |
+|                    |  08:55-09:40 | 2.2 Exercise 1 :clipboard: |
+|                    |  10:00-10:45 | 2.3 Solutions to the Exercises :movie_camera: |
+| 16 July, Thursday   |  08:00-08:45 | 3.1 Mathematical Basics of LTI Systems II :movie_camera: |
+|                    |  08:55-09:40 | 3.2 Exercise 2 :clipboard:|
+|                    |  10:00-10:45 | 3.3 Solutions to the Exercise :movie_camera: |
 | 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 (live) |
 |                    |  10:55-11:40 | 4.2 Introduction to MOR 2 (live) |
 | 21 July, Tuesday   |  13:05-13:50 | 5.1 Mathematical Basics of Balanced Truncation |
-|                    |  14:10-14:55 | 5.2 :clipboard: Exercise 3 |
+|                    |  14:10-14:55 | 5.2 Exercise 3 :clipboard: |
 | 22 July, Wednesday |  08:00-08:45 | 6.1 Balanced Truncation 1 |
 |                    |  08:55-09:40 | 6.2 Balanced Truncation 2 |
 |                    |  10:00-10:45 | 6.1 Solutions to Exercise 3 |
