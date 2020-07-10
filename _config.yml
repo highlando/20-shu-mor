@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 
 plugins:
   - jemoji
+
+include             : ["_exercises/exi.pdf"]
