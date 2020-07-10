@@ -38,9 +38,9 @@ has full row rank for any $\lambda \in \mathbb C$.
 
 Show that controllability is invariant under
 
-1. State transformations $x(t)\rightarrow \tilde x(t) := T^{-1}x(t)$, with
+1. State transformations $x(t)\leftarrow \tilde x(t) := T^{-1}x(t)$, with
    $T\in\mathbb R^{n,n}$ invertible,
-2. Input scalings $u(t)\rightarrow \tilde u(t) := R^{-1}$, with $R\in\mathbb
+2. Input scalings $u(t)\leftarrow \tilde u(t) := R^{-1}$, with $R\in\mathbb
    R^{m,m}$ invertible.
 3. Linear state feedback transformations $u(t) = -Fx(t) +v(t)$, with
    $F\in\mathbb R^{m,n}$.

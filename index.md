@@ -59,11 +59,12 @@ for control is very general.*
 
 ### Lecture 
 
-Screencast with Introduction of 
+Screencast with introduction to math basics and explanations of the 1st exercise
+sheet.
 
 ### Exercise I
 
-Please download and solve the 
+Please download and solve the [1st exercise sheet](_exercises/exi.pdf).
 
  * Hautusz' criteria
  * Equivalence transformations
