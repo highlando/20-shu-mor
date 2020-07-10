@@ -4,8 +4,7 @@
 --------|--------
 | Matrix| 矩阵 |
 | Vector| 向量 |
-| Eigenvalue |特征值|
-| Projection |投影|
+| Eigenvalue |特征值| | Projection |投影|
 | Subspace |子空间|
 | Interpolation |插值|
 | Model |模型|
@@ -64,7 +63,7 @@ sheet.
 
 ### Exercise I
 
-Please download and solve the [1st exercise sheet](_exercises/exi.pdf) (hope it;s
+Please download and solve the [1st exercise sheet](exi.pdf)
 there).
 
  * Hautusz' criteria
