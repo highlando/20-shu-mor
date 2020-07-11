@@ -25,6 +25,10 @@
 
 All times are Beijing time.
 
+ * :microphone: - live session
+ * :camera: - prerecorded session
+ * :clipboard: - exercise (on your own)
+
 # The Lecture
 
 ## 1 Introduction to LTI Systems
@@ -41,21 +45,12 @@ for control is very general.*
 
 ## 2 Mathematical Basics of LTI Systems
 
-### Lecture 
-
-Screencast with introduction to math basics and explanations of the 1st exercise
+1. Screencast with introduction to math basics and explanations of the 1st exercise
 sheet.
-
-### Exercise I
-
-Please download and solve the [1st exercise sheet](exi.pdf).
-
- * Hautusz' criteria
- * Equivalence transformations
-
-### Solutions of Exercise I
-
-Screencast
+2. Please download and solve the [1st exercise sheet](exi.pdf) on
+  * Hautusz' criteria
+  * Equivalence transformations
+3. Screencast with the solutions
 
 ## 2 Introduction to Model Reduction
 
