@@ -10,18 +10,18 @@
 | 16 July, Thursday   |  08:00-08:45 | 3.1 Mathematical Basics of LTI Systems II :camera: |
 |                    |  08:55-09:40 | 3.2 Exercise 2 :clipboard:|
 |                    |  10:00-10:45 | 3.3 Solutions to the Exercise :camera: |
-| 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 (live) |
-|                    |  10:55-11:40 | 4.2 Introduction to MOR 2 (live) |
-| 21 July, Tuesday   |  13:05-13:50 | 5.1 Mathematical Basics of Balanced Truncation |
-|                    |  14:10-14:55 | 5.2 Exercise 3 :clipboard: |
-| 22 July, Wednesday |  08:00-08:45 | 6.1 Balanced Truncation 1 |
-|                    |  08:55-09:40 | 6.2 Balanced Truncation 2 |
-|                    |  10:00-10:45 | 6.1 Solutions to Exercise 3 |
-| 23 July, Thursday  |  08:00-08:45 | 7.2 LQG-Balanced Truncation |
-|                    |  08:55-09:40 | 7.1 Descriptor Systems |
-|                    |  10:00-10:45 | 7.2 LQGBT for incompressible Flows |
-| 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation (live) |
-|                    |  10:55-11:40 | 8.2 Summary of the Lecture (live) |
+| 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 :microphone: |
+|                    |  10:55-11:40 | 4.2 Introduction to MOR 2 :microphone: |
+| 21 July, Tuesday   |  13:05-13:50 | 5.1 Projection Based MOR :microphone: |
+|                    |  14:10-14:55 | 5.2 Projection Based MOR :microphone: |
+| 22 July, Wednesday  |  08:00-08:45 | 6.1 Mathematical Basics of Balanced Truncation |
+|                     |  08:55-09:40 | 6.2 Exercise 3 :clipboard: |
+|                     |  10:00-10:45 | 6.3 Solutions to Exercise 3 |
+| 23 July, Thursday  |  08:00-08:45 | 7.1 6.1 Balanced Truncation 1 :microphone: |
+|                    |  08:55-09:40 | 7.2 6.2 Balanced Truncation 2 :microphone: |
+|                    |  10:00-10:45 | 7.3 LQG-Balanced Truncation for incompressible Flows :microphone: |
+| 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
+|                    |  10:55-11:40 | 8.2 Summary of the Lecture :microphone: |
 
 All times are Beijing time.
 
@@ -43,14 +43,23 @@ for control is very general.*
  * Controllability/Observability
  * Realizations
 
-## 2 Mathematical Basics of LTI Systems
+## 2 Mathematical Basics of LTI Systems 1
 
 1. Screencast with introduction to math basics and explanations of the 1st exercise
-sheet.
-2. Please download and solve the [1st exercise sheet](exi.pdf) on
+sheet on
   * Hautusz' criteria
   * Equivalence transformations
-3. Screencast with the solutions
+2. Please download and solve the [1st exercise sheet](exi.pdf).
+3. Screencast with the solutions.
+
+## 2 Mathematical Basics of LTI Systems 1
+
+1. Screencast with introduction to math basics and explanations of the 2nd exercise
+sheet on
+  * Stability and Minimality,
+  * System Norms.
+2. Please download and solve the [2nd exercise sheet](exii.pdf).
+3. Screencast with the solutions.
 
 ## 2 Introduction to Model Reduction
 
