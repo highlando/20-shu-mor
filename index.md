@@ -1,30 +1,15 @@
-# Little Chinese Dictionary
-
-| Hello | 你好 |
---------|--------
-| Matrix| 矩阵 |
-| Vector| 向量 |
-| Eigenvalue |特征值| | Projection |投影|
-| Subspace |子空间|
-| Interpolation |插值|
-| Model |模型|
-| System |系统|
-| Transfer function |传递函数|
-| Stable |稳定|
-| Truncation |截断|
-
 # Time Schedule
 
 | Date | Times | Content |
 | ---- | :----: | ------- |
 | 14 July, Tuesday    |  13:05-13:50 | 1.1 Introduction to LTI Systems :microphone: |
 |                    |  14:10-14:55 | 1.2 Introduction to LTI Systems :microphone: |
-| 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I :movie_camera: |
+| 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I :camera: |
 |                    |  08:55-09:40 | 2.2 Exercise 1 :clipboard: |
-|                    |  10:00-10:45 | 2.3 Solutions to the Exercises :movie_camera: |
-| 16 July, Thursday   |  08:00-08:45 | 3.1 Mathematical Basics of LTI Systems II :movie_camera: |
+|                    |  10:00-10:45 | 2.3 Solutions to the Exercises :camera: |
+| 16 July, Thursday   |  08:00-08:45 | 3.1 Mathematical Basics of LTI Systems II :camera: |
 |                    |  08:55-09:40 | 3.2 Exercise 2 :clipboard:|
-|                    |  10:00-10:45 | 3.3 Solutions to the Exercise :movie_camera: |
+|                    |  10:00-10:45 | 3.3 Solutions to the Exercise :camera: |
 | 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 (live) |
 |                    |  10:55-11:40 | 4.2 Introduction to MOR 2 (live) |
 | 21 July, Tuesday   |  13:05-13:50 | 5.1 Mathematical Basics of Balanced Truncation |
@@ -133,3 +118,19 @@ related theory can be extended to so called differential-algebraic equations
 Bringing all together, in the last lecture, we will show and explain recent
 results concerning the control of Navier-Stokes equations by means of low-order
 controllers.
+
+# Little Chinese Dictionary
+
+| Hello | 你好 |
+--------|--------
+| Matrix| 矩阵 |
+| Vector| 向量 |
+| Eigenvalue |特征值| | Projection |投影|
+| Subspace |子空间|
+| Interpolation |插值|
+| Model |模型|
+| System |系统|
+| Transfer function |传递函数|
+| Stable |稳定|
+| Truncation |截断|
+
