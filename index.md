@@ -125,7 +125,8 @@ controllers.
 --------|--------
 | Matrix| 矩阵 |
 | Vector| 向量 |
-| Eigenvalue |特征值| | Projection |投影|
+| Eigenvalue |特征值|
+| Projection |投影|
 | Subspace |子空间|
 | Interpolation |插值|
 | Model |模型|
