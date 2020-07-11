@@ -17,8 +17,8 @@
 
 | Date | Times | Content |
 | ---- | :----: | ------- |
-| 14 July, Tuesday    |  13:05-13:50 | 1.1  Introduction to LTI Systems (live) |
-|                    |  14:10-14:55 | 1.2 Introduction to LTI Systems (live) |
+| 14 July, Tuesday    |  13:05-13:50 | 1.1 Introduction to LTI Systems :microphone: |
+|                    |  14:10-14:55 | 1.2 Introduction to LTI Systems :microphone: |
 | 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I :movie_camera: |
 |                    |  08:55-09:40 | 2.2 Exercise 1 :clipboard: |
 |                    |  10:00-10:45 | 2.3 Solutions to the Exercises :movie_camera: |
@@ -63,8 +63,7 @@ sheet.
 
 ### Exercise I
 
-Please download and solve the [1st exercise sheet](exi.pdf)
-there).
+Please download and solve the [1st exercise sheet](exi.pdf).
 
  * Hautusz' criteria
  * Equivalence transformations
