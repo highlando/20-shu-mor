@@ -1,7 +1,7 @@
 # Time Schedule
 
 | Date | Times | Content |
-| ---- | :----: | ------- |
+| ---- | :-----: | ------- |
 | 14 July, Tuesday    |  13:05-13:50 | 1.1 Introduction to LTI Systems :microphone: |
 |                    |  14:10-14:55 | 1.2 Introduction to LTI Systems :microphone: |
 | 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I :camera: |
@@ -14,11 +14,11 @@
 |                    |  10:55-11:40 | 4.2 Introduction to MOR 2 :microphone: |
 | 21 July, Tuesday   |  13:05-13:50 | 5.1 Projection Based MOR :microphone: |
 |                    |  14:10-14:55 | 5.2 Projection Based MOR :microphone: |
-| 22 July, Wednesday  |  08:00-08:45 | 6.1 Mathematical Basics of Balanced Truncation |
+| 22 July, Wednesday  |  08:00-08:45 | 6.1 Mathematical Basics of Balanced Truncation :camera: |
 |                     |  08:55-09:40 | 6.2 Exercise 3 :clipboard: |
-|                     |  10:00-10:45 | 6.3 Solutions to Exercise 3 |
-| 23 July, Thursday  |  08:00-08:45 | 7.1 6.1 Balanced Truncation 1 :microphone: |
-|                    |  08:55-09:40 | 7.2 6.2 Balanced Truncation 2 :microphone: |
+|                     |  10:00-10:45 | 6.3 Solutions to Exercise 3 :camera: |
+| 23 July, Thursday  |  08:00-08:45 | 7.1 Balanced Truncation 1 :microphone: |
+|                    |  08:55-09:40 | 7.2 Balanced Truncation 2 :microphone: |
 |                    |  10:00-10:45 | 7.3 LQG-Balanced Truncation for incompressible Flows :microphone: |
 | 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
 |                    |  10:55-11:40 | 8.2 Summary of the Lecture :microphone: |
@@ -52,7 +52,7 @@ sheet on
 2. Please download and solve the [1st exercise sheet](exi.pdf).
 3. Screencast with the solutions.
 
-## 2 Mathematical Basics of LTI Systems 1
+## 3 Mathematical Basics of LTI Systems 2
 
 1. Screencast with introduction to math basics and explanations of the 2nd exercise
 sheet on
@@ -61,26 +61,16 @@ sheet on
 2. Please download and solve the [2nd exercise sheet](exii.pdf).
 3. Screencast with the solutions.
 
-## 2 Introduction to Model Reduction
+## 4 Introduction to Model Reduction
 
-*The second lecture will be on the fundamental motivations and mathematical
+*This lecture will be on the fundamental motivations and mathematical
 notions of model reduction in general and for LTI in particular. This lecture
 will provide some illustrative examples for the use and results of model
 reduction.*
 
-## 3 Mathematical Basics for System Theory
-
-*In the 3rd lecture, we will introduce the necessary mathematical foundations
-from system theory and linear algebra.*
-
- * Stability
- * Laplace transform
- * Proper systems
- * System norms
-
 ## 4 Projection Based Model Reduction
 
-*In the 4th lecture, I will introduce the fundamental model reduction approach
+*In this lecture, I will introduce the fundamental model reduction approach
 that uses projections and explain several ways to compute these projections.*
 
  * Projections and projectors
@@ -96,32 +86,31 @@ which will be introduced in the 5th lecture.*
  * Balanced Realizations
  * Balanced Truncation
 
-## Lesson 6
+## 6 Mathematical Basics of Balanced Truncation
 
-The 6th lecture will be devoted to the numerous variants of Balanced Truncation.
+1. Screencast with introduction to math basics and explanations of the 3rd exercise
+sheet on
+  * Gramians of LTI systems,
+  * Transformations, Invariants, and
+  * Balancing of the Gramians.
+2. Please download and solve the [3rd exercise sheet](exiii.pdf).
+3. Screencast with the solutions.
 
-## Lesson 7
+## 7 Balanced Truncation
 
-In lecture 7, we will introduce basic concepts for controller design for LTI
-that are similar to and that use the same mathematical concepts as Balanced
-Truncation.
+In lecture 7, we will learn about Balanced Truncation which is a powerful model
+reduction technique for stable LTI systems.
+
+Also, we will address the approach of LQG-BT which combines
+controller design and model reduction by Balanced Truncation.
 
 ## Lesson 8
 
-The 8th lecture will address the approach of LQG-BT which combines the
-controller design and the model reduction by Balanced Truncation.
+In the last lecture, I will showcase how the methods of *Proper Orthogonal
+Decomposition* (POD) and *Dynamical Mode Decomposition* (DMD) work for the 2D
+*Burgers equation*.
 
-## Lesson 9
-
-The 9th lecture contains a discussion and several examples on how the LTI
-related theory can be extended to so called differential-algebraic equations
-(DAEs) or descriptor systems.
-
-## Lesson 10
-
-Bringing all together, in the last lecture, we will show and explain recent
-results concerning the control of Navier-Stokes equations by means of low-order
-controllers.
+Finally, we will wrap up the contents of the course.
 
 # Little Chinese Dictionary
 
@@ -138,4 +127,3 @@ controllers.
 | Transfer function |传递函数|
 | Stable |稳定|
 | Truncation |截断|
-
