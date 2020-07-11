@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: SHU Short Course on Model Order Reduction
+description: Schedule, Information, and Material
 
 plugins:
   - jemoji
