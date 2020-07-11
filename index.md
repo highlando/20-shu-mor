@@ -68,7 +68,7 @@ notions of model reduction in general and for LTI in particular. This lecture
 will provide some illustrative examples for the use and results of model
 reduction.*
 
-## 4 Projection Based Model Reduction
+## 5 Projection Based Model Reduction
 
 *In this lecture, I will introduce the fundamental model reduction approach
 that uses projections and explain several ways to compute these projections.*
@@ -76,15 +76,6 @@ that uses projections and explain several ways to compute these projections.*
  * Projections and projectors
  * Projection and Interpolation
  * Modal Truncation
-
-## 5 Balanced Truncation
-
-*A mathematical well understood projection method is Balanced Truncation (BT),
-which will be introduced in the 5th lecture.*
-
- * Gramians
- * Balanced Realizations
- * Balanced Truncation
 
 ## 6 Mathematical Basics of Balanced Truncation
 
@@ -104,7 +95,7 @@ reduction technique for stable LTI systems.
 Also, we will address the approach of LQG-BT which combines
 controller design and model reduction by Balanced Truncation.
 
-## Lesson 8
+## 8 Outlook and Summary
 
 In the last lecture, I will showcase how the methods of *Proper Orthogonal
 Decomposition* (POD) and *Dynamical Mode Decomposition* (DMD) work for the 2D

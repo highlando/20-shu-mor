@@ -33,6 +33,6 @@ $$
 3. Compute the transfer function 
 $$ G(s) = C(sI-A)^{-1}B $$ 
 and comment on *minimality* of the realization.
-4. Compute the $\mathcal H _ \infty$ norm
+4. For this transfer function, compute the $\mathcal H _ \infty$ norm
 $$ \|G\| _ \infty = \sup _ {\omega \in \mathbb R} |G(i\omega)|$$
 where $i$ is the imaginary unit.
