@@ -26,7 +26,7 @@ have rank $r\leq n$.
 
 1. Show that there exists an invertible matrix $T\in \mathbb R^{n,n}$ such that
 $$ T^{-1}AT = \begin{bmatrix} A_1 & A_2 \\ 0 & A_3 \end{bmatrix}
-\quad\text{and}\quad TB = \begin{bmatrix} B_1 \\ 0 \end{bmatrix}, $$
+\quad\text{and}\quad T^{-1}B = \begin{bmatrix} B_1 \\ 0 \end{bmatrix}, $$
 with $(A_1, B_1)$ is a controllable matrix pair.
 
 2. Show that $(A,B)$ is controllable if, and only if, 

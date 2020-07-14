@@ -31,6 +31,8 @@ All times are Beijing time.
 
 # The Lecture
 
+:clipboard: [The script (might get updates in the course of the lecture)](shmorsc.pdf)
+
 ## 1 Introduction to LTI Systems
 
 *I will start my short course by introducing the class of Linear Time Invariant
