@@ -19,19 +19,19 @@ For $A$ stable, the infinite *reachability* and *observability* Gramians
 $\mathcal P$ and $\mathcal Q$ are given as
 
 $$\begin{aligned}
-\mathcal{P}&=\int _ {0}^{\infty} e^{{A} \tau} {B} {B}^{ * } e^{{A}^{ * } \tau} d \tau \quad \text{and}\\
-\mathcal{Q}&=\int _ {0}^{\infty} e^{{A}^{ * } \tau} {C}^{ * } {C} e^{{A} \tau} d \tau.
+\mathcal{P}&=\int _ {0}^{\infty} e^{{A} \tau} {B} {B}^{ T } e^{{A}^{ T } \tau} d \tau \quad \text{and}\\
+\mathcal{Q}&=\int _ {0}^{\infty} e^{{A}^{ T } \tau} {C}^{ T } {C} e^{{A} \tau} d \tau.
 \end{aligned}$$
 
 Show
 
 1. the Gramians $\mathcal P$ and $\mathcal Q$ satisfy the *Lyapunov* equations
 $$
-{A} \mathcal{P}+\mathcal{P} {A}^{*}+{B} {B}^{*}={0}
+{A} \mathcal{P}+\mathcal{P} {A}^{T}+{B} {B}^{T}={0}
 $$
 and
 $$
-{A}^{*} \mathcal{Q}+\mathcal{Q A}+{C}^{*} {C}={0}.
+{A}^{T} \mathcal{Q}+\mathcal{Q A}+{C}^{T} {C}={0}.
 $$
 
 2. that they are symmetric positive definite,
@@ -41,13 +41,13 @@ $$
 
 4. that the state transformation $x(t)\leftarrow Tx(t)$ with
 $$
-T=\Sigma^{-\frac 12}V^ * R
+T=\Sigma^{-\frac 12}V^ T R
 $$
 makes the transformed Gramians balanced, e.g. $\tilde {\mathcal P}$ and
 $\tilde{\mathcal Q}$ are diagonal and equal. Here $S$ and $R$ are factors of
-$\mathcal P = S^ * S$ and $\mathcal Q = R ^ * R$ so that $V$ and $\Sigma$ can be
-defined through the *Singular Value Decomposition* of $SR ^ *$:
+$\mathcal P = S^ T S$ and $\mathcal Q = R ^ T R$ so that $V$ and $\Sigma$ can be
+defined through the *Singular Value Decomposition* of $SR ^ T$:
 $$
-U\Sigma V^ * = S R^ * .
+U\Sigma V^ T = S R^ T .
 $$
 

@@ -13,13 +13,13 @@
 | 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 :microphone: |
 |                    |  10:55-11:40 | 4.2 Introduction to MOR 2 :microphone: |
 | 21 July, Tuesday   |  13:05-13:50 | 5.1 Projection Based MOR :microphone: |
-|                    |  14:10-14:55 | 5.2 Projection Based MOR :microphone: |
-| 22 July, Wednesday  |  08:00-08:45 | 6.1 Mathematical Basics of Balanced Truncation :camera: |
-|                     |  08:55-09:40 | 6.2 Exercise 3 :clipboard: |
-|                     |  10:00-10:45 | 6.3 Solutions to Exercise 3 :camera: |
-| 23 July, Thursday  |  08:00-08:45 | 7.1 Balanced Truncation 1 :microphone: |
-|                    |  08:55-09:40 | 7.2 Balanced Truncation 2 :microphone: |
-|                    |  10:00-10:45 | 7.3 LQG-Balanced Truncation for incompressible Flows :microphone: |
+|                    |  14:10-14:55 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
+| 22 July, Wednesday  |  08:00-08:45 | 6.2 Exercise 3 :clipboard: |
+|                     |  08:55-09:40 | 6.3 Solutions to Exercise 3 :microphone: |
+|                     |  10:00-10:45 | 7.1 Balanced Truncation 1 :microphone: |
+| 23 July, Thursday  |  08:00-08:45 | 7.2 (Practical) Exercise 4 :clipboard: |
+|                    |  08:55-09:40 | 7.3 Solutions to Exercise 4 :microphone: |
+|                    |  10:00-10:45 | 7.4 LQG-Balanced Truncation for incompressible Flows :microphone: |
 | 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
 |                    |  10:55-11:40 | 8.2 Summary of the Lecture :microphone: |
 
@@ -77,25 +77,32 @@ that uses projections and explain several ways to compute these projections.*
 
  * Projections and projectors
  * Projection and Interpolation
- * Modal Truncation
 
 ## 6 Mathematical Basics of Balanced Truncation
 
-1. Screencast with introduction to math basics and explanations of the 3rd exercise
-sheet on
+1. Introduction to math basics and explanations of the 3rd exercise sheet on
   * Gramians of LTI systems,
   * Transformations, Invariants, and
   * Balancing of the Gramians.
 2. Please download and solve the [3rd exercise sheet](exiii.pdf).
-3. Screencast with the solutions.
+3. Live discussion of the solutions.
 
 ## 7 Balanced Truncation
 
-In lecture 7, we will learn about Balanced Truncation which is a powerful model
+1. In lecture 7.1, we will learn about Balanced Truncation which is a powerful model
 reduction technique for stable LTI systems.
 
-Also, we will address the approach of LQG-BT which combines
-controller design and model reduction by Balanced Truncation.
+2. Please download and solve the [4th exercise sheet](exiv.pdf).
+  * You can use `MATLAB` with the *control systems toolbox* or the routine files
+    provided below
+  * or `octave` with `pkg install -forge control` and `pkg load control`.
+  * Here are the [data and routine files](exiv-data.zip).
+
+3. Live demonstration of the solutions to *Exercise 4* by the students or by the
+   lecturer.
+
+4. Lecture of LQG-BT which combines controller design and model reduction by
+   Balanced Truncation.
 
 ## 8 Outlook and Summary
 
