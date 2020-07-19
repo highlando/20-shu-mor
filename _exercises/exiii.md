@@ -1,6 +1,6 @@
 ---
 title: Exercise 3 -- Gramians
-date: July 16, 2020
+date: July 22, 2020
 author: Jan Heiland
 ---
 

@@ -93,8 +93,8 @@ that uses projections and explain several ways to compute these projections.*
 reduction technique for stable LTI systems.
 
 2. Please download and solve the [4th exercise sheet](exiv.pdf).
-  * You can use `MATLAB` with the *control systems toolbox* or the routine files
-    provided below
+  * You can use `MATLAB` (if you don't have the *control systems toolbox*, use
+    the routine files provided below)
   * or `octave` with `pkg install -forge control` and `pkg load control`.
   * Here are the [data and routine files](exiv-data.zip).
 
