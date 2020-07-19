@@ -15,10 +15,10 @@
 | 21 July, Tuesday   |  13:05-13:50 | 5.1 Projection Based MOR :microphone: |
 |                    |  14:10-14:55 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
 | 22 July, Wednesday  |  08:00-08:45 | 6.2 Exercise 3 :clipboard: |
-|                     |  08:55-09:40 | 6.3 Solutions to Exercise 3 :microphone: |
+|                     |  :low_brightness: 09:05-09:50 | 6.3 Solutions to Exercise 3 :microphone: |
 |                     |  10:00-10:45 | 7.1 Balanced Truncation 1 :microphone: |
 | 23 July, Thursday  |  08:00-08:45 | 7.2 (Practical) Exercise 4 :clipboard: |
-|                    |  08:55-09:40 | 7.3 Solutions to Exercise 4 :microphone: |
+|                    |  :low_brightness: 09:05-09:50 | 7.3 Solutions to Exercise 4 :microphone: |
 |                    |  10:00-10:45 | 7.4 LQG-Balanced Truncation for incompressible Flows :microphone: |
 | 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
 |                    |  10:55-11:40 | 8.2 Summary of the Lecture :microphone: |
@@ -45,6 +45,8 @@ for control is very general.*
  * Controllability/Observability
  * Realizations
 
+[The lecture whiteboard](blackboards/11-lti-intro.png)
+
 ## 2 Mathematical Basics of LTI Systems 1
 
 1. Screencast with introduction to math basics and explanations of the 1st exercise
@@ -53,6 +55,8 @@ sheet on
   * Equivalence transformations
 2. Please download and solve the [1st exercise sheet](exi.pdf).
 3. Screencast with the solutions.
+
+[The solutions whiteboard](blackboards/23-exi.png)
 
 ## 3 Mathematical Basics of LTI Systems 2
 
@@ -63,12 +67,20 @@ sheet on
 2. Please download and solve the [2nd exercise sheet](exii.pdf).
 3. Screencast with the solutions.
 
+[The lecture whiteboard](blackboards/31-stability.png)
+ * stability
+[The solutions whiteboard](blackboards/33-exii.png)
+
 ## 4 Introduction to Model Reduction
 
 *This lecture will be on the fundamental motivations and mathematical
 notions of model reduction in general and for LTI in particular. This lecture
 will provide some illustrative examples for the use and results of model
 reduction.*
+
+[The lecture whiteboard](blackboards/412-invariance-intro-mor.png)
+ * Recap on $A$-invariance
+ * Why model reduction
 
 ## 5 Projection Based Model Reduction
 
