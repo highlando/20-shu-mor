@@ -69,6 +69,7 @@ sheet on
 
 [The lecture whiteboard](blackboards/31-stability.png)
  * stability
+
 [The solutions whiteboard](blackboards/33-exii.png)
 
 ## 4 Introduction to Model Reduction
@@ -79,8 +80,8 @@ will provide some illustrative examples for the use and results of model
 reduction.*
 
 [The lecture whiteboard](blackboards/412-invariance-intro-mor.png)
- * Recap on $A$-invariance
- * Why model reduction
+ * Recap on *A-invariance*
+ * Why model reduction?
 
 ## 5 Projection Based Model Reduction
 
