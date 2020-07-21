@@ -91,6 +91,10 @@ that uses projections and explain several ways to compute these projections.*
  * Projections and projectors
  * Projection and Interpolation
 
+[The lecture whiteboard](blackboards/512-projections-gramians.png)
+ * MOR and projections
+ * The Gramians
+
 ## 6 Mathematical Basics of Balanced Truncation
 
 1. Introduction to math basics and explanations of the 3rd exercise sheet on

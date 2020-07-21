@@ -31,7 +31,7 @@ $$
 $$
 and
 $$
-{A}^{T} \mathcal{Q}+\mathcal{Q A}+{C}^{T} {C}={0}.
+{A}^{T} \mathcal{Q}+\mathcal{Q} A+{C}^{T} {C}={0}.
 $$
 
 2. that they are symmetric positive definite,
