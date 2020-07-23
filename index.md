@@ -118,6 +118,8 @@ reduction technique for stable LTI systems.
 3. Live demonstration of the solutions to *Exercise 4* by the students or by the
    lecturer.
 
+  * Solutions [1](bt-min.m) [2](bt-beam.m)
+
 4. Lecture of LQG-BT which combines controller design and model reduction by
    Balanced Truncation.
 
