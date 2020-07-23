@@ -13,6 +13,7 @@ end
 semilogx(freq,H,'k')
 hold on
 
+
 %% Compute low rank factors of Gramians via matrix sign
 [Y,~] = lyap_sgn_fac(A',B');
 Y = Y';

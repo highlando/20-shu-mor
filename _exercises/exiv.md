@@ -52,8 +52,10 @@ factors $S$ and $R^{T}$.
 
 What can you say about the minimality of the system?
 
-Adjust the transformation matrices by removing the zero row of $T=\Sigma^{-\frac{1}{2}} V^{T} R$ 
-and the corresponding column of its (pseudo) inverse $S^{T} U \Sigma^{-\frac{1}{2}}$.
+Adjust the transformation matrices by removing the row of
+$T=\Sigma^{-\frac{1}{2}} V^{T} R$ that is associated with the zero (in a
+numerical sense) values of the diagonal entries of $\Sigma$ and the
+corresponding column of its inverse $S^{T} U \Sigma^{-\frac{1}{2}}$.
 
 Use these transformation matrices to construct a minimal reduced-order
 model which exactly reproduces the transfer function of the original model, i.e., for the reduced system it should hold

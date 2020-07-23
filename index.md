@@ -104,10 +104,15 @@ that uses projections and explain several ways to compute these projections.*
 2. Please download and solve the [3rd exercise sheet](exiii.pdf).
 3. Live discussion of the solutions.
 
+[whiteboard of the exercise](blackboards/61-exiii-gramians.png)
+
+
 ## 7 Balanced Truncation
 
 1. In lecture 7.1, we will learn about Balanced Truncation which is a powerful model
 reduction technique for stable LTI systems.
+
+[whiteboard on balanced truncation](blackboards/62-balanced-truncation.png)
 
 2. Please download and solve the [4th exercise sheet](exiv.pdf).
   * You can use `MATLAB` (if you don't have the *control systems toolbox*, use
@@ -117,17 +122,18 @@ reduction technique for stable LTI systems.
 
 3. Live demonstration of the solutions to *Exercise 4* by the students or by the
    lecturer.
-
   * Solutions [1](bt-min.m) [2](bt-beam.m)
 
 4. Lecture of LQG-BT which combines controller design and model reduction by
-   Balanced Truncation.
+   Balanced Truncation and its application to flow control.
+
+[whiteboard](blackboards/712-pract-ex-daes.png)
 
 ## 8 Outlook and Summary
 
 In the last lecture, I will showcase how the methods of *Proper Orthogonal
 Decomposition* (POD) and *Dynamical Mode Decomposition* (DMD) work for the 2D
-*Burgers equation*.
+*Burgers equation*. [see my blog post](https://www.janheiland.de/post/fenics-burger-pod-dmd/).
 
 Finally, we will wrap up the contents of the course.
 

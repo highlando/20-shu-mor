@@ -35,6 +35,6 @@ for i = 1 : 1000
     H = [H Hi];
     Hr = [Hr Hir];
 end
-semilogx(w,H,'k')
-hold on
+% semilogx(w,H,'k')
+% hold on
 semilogx(w,Hr,'r')
