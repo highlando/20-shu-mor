@@ -135,7 +135,21 @@ In the last lecture, I will showcase how the methods of *Proper Orthogonal
 Decomposition* (POD) and *Dynamical Mode Decomposition* (DMD) work for the 2D
 *Burgers equation*. [see my blog post](https://www.janheiland.de/post/fenics-burger-pod-dmd/).
 
+### POD for Burgers
+
+[Whiteboard with the POD](blackboards/81-pod.png)
+
+### Wrapup
+
 Finally, we will wrap up the contents of the course.
+
+[Whiteboard of the Summary](blackboards/82-wrapup.png)
+
+### Studying abroad (maybe a Master in Magdeburg)
+
+* [page with links to the Master programmes in English](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
+* [Whiteboard with the notes](blackboards/83-study-abroad.png)
+
 
 # Little Chinese Dictionary
 
